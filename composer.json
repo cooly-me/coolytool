@@ -2,8 +2,12 @@
     "name": "cooly/tool",
     "type": "library",
     "license": "MIT",
+    "description": "酷的工具集",
     "minimum-stability": "stable",
-    "require": {},
+    "prefer-stable": true,
+    "require": {
+        "cooly/tool": "dev-master"
+    },
     "authors": [
         {
             "name": "maizai"

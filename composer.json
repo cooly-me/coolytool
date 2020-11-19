@@ -9,9 +9,6 @@
             "name": "maizai"
         }
     ],
-    "require-dev": {
-        "php": ">=7"
-    },
     "autoload": {
         "psr-4": {
             "Cooly\\Tool\\": "src/Cooly/Tool"

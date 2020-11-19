@@ -2,7 +2,7 @@
     "name": "cooly/tool",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
     "authors": [
         {

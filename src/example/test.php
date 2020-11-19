@@ -5,7 +5,7 @@
  * Date: 2020/11/19
  * Time: 10:52
  */
-require __DIR__ ."/vendor/autoload.php";
+require  "../../vendor/autoload.php";
 
 use Cooly\Tool\Hello;
 

@@ -1,0 +1,20 @@
+{
+    "name": "cooly/tool",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "authors": [
+        {
+            "name": "maizai"
+        }
+    ],
+    "require-dev": {
+        "php": ">=7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cooly\\Tool\\": "src/Cooly/Tool"
+        }
+    }
+}

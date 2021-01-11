@@ -4,10 +4,8 @@
     "license": "MIT",
     "description": "酷的工具集",
     "minimum-stability": "stable",
+    "version": "1.0.0",
     "prefer-stable": true,
-    "require": {
-        "cooly/tool": "dev-master"
-    },
     "authors": [
         {
             "name": "maizai"

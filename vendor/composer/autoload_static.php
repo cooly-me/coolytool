@@ -7,6 +7,10 @@ namespace Composer\Autoload;
 class ComposerStaticInitfe86b94c16da9ae9d111b3f1cbd12e65
 {
     public static $prefixLengthsPsr4 = array (
+        'O' => 
+        array (
+            'OSS\\' => 4,
+        ),
         'C' => 
         array (
             'Cooly\\Tool\\' => 11,
@@ -14,6 +18,10 @@ class ComposerStaticInitfe86b94c16da9ae9d111b3f1cbd12e65
     );
 
     public static $prefixDirsPsr4 = array (
+        'OSS\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/aliyuncs/oss-sdk-php/src/OSS',
+        ),
         'Cooly\\Tool\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src/Cooly/Tool',

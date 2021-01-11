@@ -6,6 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'OSS\\' => array($vendorDir . '/aliyuncs/oss-sdk-php/src/OSS'),
     'Cooly\\Tool\\' => array($baseDir . '/src/Cooly/Tool'),
 );

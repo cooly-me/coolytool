@@ -19,9 +19,7 @@
 composer require cooly/tool
 ```
 
-
-
-### 3、意见反馈或功能添加功能
+### 4、意见反馈或功能添加功能
 
 ​	1、若有发现bug或是问题，请在issues(https://github.com/cooly-me/coolytool/issues/1)中反馈，并且详细描述问题，最好把问题截图发出来，作者会定时查看，针对反馈进行处理。
 

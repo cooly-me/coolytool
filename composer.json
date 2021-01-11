@@ -11,6 +11,9 @@
             "name": "maizai"
         }
     ],
+    "config": {
+        "sort-packages": true
+    },
     "autoload": {
         "psr-4": {
             "Cooly\\Tool\\": "src/Cooly/Tool"

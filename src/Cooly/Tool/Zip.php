@@ -11,6 +11,7 @@ namespace Cooly\Tool;
 
 class Zip
 {
+    use singleton;
     private $zip;
     private $zipPath;
 

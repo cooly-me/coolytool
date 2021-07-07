@@ -1,6 +1,6 @@
 <?php
 /**
- * @title Uzip
+ * @title JWT
  * @decribe ...
  * @date 2021/1/5
  * @anthor mz
@@ -11,6 +11,7 @@ namespace Cooly\Tool;
 
 class Jwt
 {
+    use singleton;
     /**
      * @name header
      * @decribe  jwt 头

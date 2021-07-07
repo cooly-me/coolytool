@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c081f364-ae7f-4f44-b176-6ffd470aeefa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cooly/Tool/HttpClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cooly/Tool/HttpClient.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cooly/Tool/Image.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cooly/Tool/Image.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cooly/Tool/Jwt.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cooly/Tool/Jwt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cooly/Tool/Verification.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cooly/Tool/Verification.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cooly/Tool/Zip.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cooly/Tool/Zip.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cooly/Tool/singleton.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cooly/Tool/singleton.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -215,7 +208,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -259,18 +252,18 @@
       <workItem from="1610096950081" duration="8135000" />
       <workItem from="1610339686185" duration="4061000" />
       <workItem from="1610351841333" duration="51000" />
-      <workItem from="1625620342832" duration="2069000" />
+      <workItem from="1625620342832" duration="2975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29975000" />
+    <option name="totallyTimeSpent" value="30881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26012793" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26012793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Alibaba Cloud Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -287,7 +280,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.33259913" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.33259913" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
